@@ -1,0 +1,7 @@
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\bin\Debug\Stack2zad.exe.config
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\bin\Debug\Stack2zad.exe
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\bin\Debug\Stack2zad.pdb
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\obj\Debug\Stack2zad.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\obj\Debug\Stack2zad.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\obj\Debug\Stack2zad.exe
+C:\Users\HOME\source\repos\Stack2zad\Stack2zad\obj\Debug\Stack2zad.pdb
